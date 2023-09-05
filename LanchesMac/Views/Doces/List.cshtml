@@ -1,0 +1,14 @@
+﻿@model DoceListViewModel
+
+<div>
+	<h2>@Model.CategoriaAtual</h2>
+</div>
+
+<div class="container">
+	<div class="row">
+		@foreach(var doce in Model.Tortas)
+		{
+			<partial name="_DocesResumo" for="@doce"/>
+		}
+	</div>
+</div>

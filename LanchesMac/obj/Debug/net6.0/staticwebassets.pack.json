@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LanchesMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchesMac.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\Checkout.css",
+      "PackagePath": "staticwebassets\\css\\Checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\CheckoutCompleto.css",
+      "PackagePath": "staticwebassets\\css\\CheckoutCompleto.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\IndexTelaInicial.css",
+      "PackagePath": "staticwebassets\\css\\IndexTelaInicial.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\adminPedidos.css",
+      "PackagePath": "staticwebassets\\css\\adminPedidos.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\adminTortas.css",
+      "PackagePath": "staticwebassets\\css\\adminTortas.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\carrinhoCompra.css",
+      "PackagePath": "staticwebassets\\css\\carrinhoCompra.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\docesResumo.css",
+      "PackagePath": "staticwebassets\\css\\docesResumo.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\docesResumoTela.css",
+      "PackagePath": "staticwebassets\\css\\docesResumoTela.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\editProdutoAdmin.css",
+      "PackagePath": "staticwebassets\\css\\editProdutoAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\indexAdm.css",
+      "PackagePath": "staticwebassets\\css\\indexAdm.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\indexPartial.css",
+      "PackagePath": "staticwebassets\\css\\indexPartial.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\relVendas.css",
+      "PackagePath": "staticwebassets\\css\\relVendas.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\relVendasS.css",
+      "PackagePath": "staticwebassets\\css\\relVendasS.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\telaLogin.css",
+      "PackagePath": "staticwebassets\\css\\telaLogin.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\css\\todosItens.css",
+      "PackagePath": "staticwebassets\\css\\todosItens.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Mousse-de-morango.jpg",
+      "PackagePath": "staticwebassets\\imagens\\Mousse-de-morango.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\adm.jpg",
+      "PackagePath": "staticwebassets\\imagens\\adm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carrinhoCompra.png",
+      "PackagePath": "staticwebassets\\imagens\\carrinhoCompra.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\choco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\choco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\chocohot.jpg",
+      "PackagePath": "staticwebassets\\imagens\\chocohot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\contato.png",
+      "PackagePath": "staticwebassets\\imagens\\contato.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\creme-leite-ninho.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\creme-leite-ninho.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\cuca-de-uva-simples-730x449.jpg",
+      "PackagePath": "staticwebassets\\imagens\\cuca-de-uva-simples-730x449.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\cuca.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\cuca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\doce.jpg",
+      "PackagePath": "staticwebassets\\imagens\\doce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\erro1.png",
+      "PackagePath": "staticwebassets\\imagens\\erro1.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\fatiatorta.jpg",
+      "PackagePath": "staticwebassets\\imagens\\fatiatorta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\fundoContato.jpg",
+      "PackagePath": "staticwebassets\\imagens\\fundoContato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icone-carrinho.png",
+      "PackagePath": "staticwebassets\\imagens\\icone-carrinho.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-amor-24.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-amor-24.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-casa-16.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-casa-16.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-desconto-48.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-desconto-48.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-entrega-64.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-entrega-64.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-folha-24.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-folha-24.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-nova-mensagem-24.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-nova-mensagem-24.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\icons8-telefone-16.png",
+      "PackagePath": "staticwebassets\\imagens\\icons8-telefone-16.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiteNinho.jpg",
+      "PackagePath": "staticwebassets\\imagens\\leiteNinho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\loginimg.jpg",
+      "PackagePath": "staticwebassets\\imagens\\loginimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\logoo.png",
+      "PackagePath": "staticwebassets\\imagens\\logoo.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\mousseMaracuja.jpg",
+      "PackagePath": "staticwebassets\\imagens\\mousseMaracuja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\negado1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\negado1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\bolo-de-fuba.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\bolo-de-fuba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\torta-bis.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\torta-bis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\registro.jpg",
+      "PackagePath": "staticwebassets\\imagens\\registro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\registro1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\registro1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\remover.png",
+      "PackagePath": "staticwebassets\\imagens\\remover.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\torta.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\torta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\tortaAlema.jpg",
+      "PackagePath": "staticwebassets\\imagens\\tortaAlema.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\tortafatia.jpg",
+      "PackagePath": "staticwebassets\\imagens\\tortafatia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\tortaint.jpg",
+      "PackagePath": "staticwebassets\\imagens\\tortaint.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\tortalimao.jpg",
+      "PackagePath": "staticwebassets\\imagens\\tortalimao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\upload2.png",
+      "PackagePath": "staticwebassets\\imagens\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\visualizar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LarissaJoanaHelfer\\Desktop\\C#\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LanchesMac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LanchesMac.props",
+      "PackagePath": "build\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMac.props",
+      "PackagePath": "buildMultiTargeting\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchesMac.props",
+      "PackagePath": "buildTransitive\\LanchesMac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

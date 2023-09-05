@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.logo {
+    width:50px;
+    height:50px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.botao {
+    margin-left: 600px;
+    background: #FF69B4;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border: 3px solid #FF1493;
+}
+
+    .botao:hover {
+        background: #FF1493;
+        transition: all 0.2s ease-in;
+        transition: all 0.2s ease-out
+    }
+
+    .botao.linear {
+        transition-timing-function: linear;
+    }
+
+#barra-nav a:hover {
+    border-radius: 5px;
+    background: #4F4F4F;
+}

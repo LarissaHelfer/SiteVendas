@@ -1,0 +1,20 @@
+﻿.card {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background: #98FB98;
+    border: none;
+}
+
+.card-body h4 {
+    background: #32CD32;
+    height:45px;
+    width:400px;
+    padding-top:5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.itens {
+    background: #90EE90;
+}

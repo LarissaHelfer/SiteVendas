@@ -1,0 +1,90 @@
+﻿<link rel="stylesheet" href="~/css/IndexTelaInicial.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/LanchesMac.styles.css" asp-append-version="true" />
+
+
+<div class="container">
+    <section id="sobre">
+        <div class="row justify-content-center" id="infos">
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img class="icon" src="~/imagens/icons8-amor-24.png" />
+                <h5>Feitos com amor</h5>
+                <p class="text-muted">Fazemos sua sobremesa com carinho</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img class="icon" src="~/imagens/icons8-casa-16.png" />
+                <h5>Prontos para entrega</h5>
+                <p class="text-muted">Entregamos seu pedido</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img class="icon" src="~/imagens/icons8-desconto-48.png" />
+                <h5>Preços Camaradas </h5>
+                <p class="text-muted">Promoções imperdíveis.</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <img src="~/imagens/icons8-folha-24.png" />
+                <h5>Doces Especiais</h5>
+                <p class="text-muted">...opções saudáveis e naturais...</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="portfolio">
+        @await Html.PartialAsync("_IndexPartial")
+    </section>
+
+    <section>
+        <div class="melhor">
+            <h2>As melhores sobremesas e doces de Santa Cruz</h2>
+        </div>
+
+        <div class="itens">
+            <div class="itens">
+                <div id="img-item">
+                    <h4>Tortas Inteiras</h4>
+                    <a href="/Doces/List/Torta%20Inteira" class="category-link" data-categoria="Torta Inteira">
+                        <img class="img" src="~/imagens/torta.jpeg" />
+                    </a>
+                </div>
+
+                <div id="img-item">
+                    <h4>Fatia de Tortas</h4>
+                    <a href="/Doces/List/Fatia%20de%20Torta" class="category-link" data-categoria="Torta de Maçã">
+                        <img class="img" src="~/imagens/tortafatia.jpg" />
+                    </a>
+                </div>
+                <div id="img-item">
+                    <h4>Cucas</h4>
+                    <a href="/Doces/List/Cucas" class="category-link" data-categoria="Cuca">
+                        <img class="img" src="~/imagens/cuca.jpeg" />
+                    </a>
+                </div>
+                <div id="img-item">
+                    <h4>Bebidas</h4>
+                    <a href="/Doces/List/Bebidas" class="category-link" data-categoria="Chocohot">
+                        <img class="img" src="~/imagens/chocohot.jpg" />
+                    </a>
+                </div>
+            </div>
+
+            <script>
+                $(document).ready(function () {
+                    // Handle category link clicks
+                    $(".category-link").click(function (e) {
+                        e.preventDefault(); // Prevent the default link behavior
+                        var categoria = $(this).data("categoria");
+                        var newHref = `/Doces/List/${encodeURIComponent(categoria)}`;
+                        $(this).attr("href", newHref);
+                    });
+                });
+            </script>
+
+
+        </div>
+
+    </section>
+
+
+
+    <br />
+
+</div>

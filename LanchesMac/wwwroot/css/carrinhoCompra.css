@@ -1,0 +1,11 @@
+﻿.container{
+    margin-bottom:50px;
+}
+
+.botoes {
+    margin-top: 25px;
+}
+
+.botoes .btn-group a{
+    border-radius: 0px;
+}

@@ -1,0 +1,76 @@
+﻿.email a{
+    text-decoration:none;
+    color:#000f;
+}
+
+.contato{
+    display:flex;
+    justify-content: center;
+}
+
+.contato div {
+    display: inline-block;
+    margin: 40px;
+    padding: 10px;
+    background: #FFC0CB;
+    height:160px;
+    border-radius:50%;
+    margin-bottom:-5px;
+}
+
+.contato img{
+    margin-bottom:10px;
+    height:50px;
+    display: block;
+    margin-left:50px
+}
+
+.casa img{
+    display: flex;
+    margin-left:155px;
+}
+
+.casa span{
+    padding:10px;
+}
+
+.info-inicio {
+    background-image: linear-gradient(#000000,#363636, #8B4726, #8B4726,#CD853F);
+    display: flex;
+    justify-content: center;
+    height:250px;
+    width:1400px;
+    margin-top:-18px;
+    margin-left:-130px;
+}
+
+.dados{
+    margin-top:100px;
+    display:flex;
+}
+
+.info-inicio img{
+    margin-right:40px;
+    height:100px;
+}
+
+.jumbotron p{
+    justify-content: center;
+    display: flex;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.jumbotron h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#contato{
+    color: #ffffff;
+}
+
+#contato .contato{
+    color:#000f
+}

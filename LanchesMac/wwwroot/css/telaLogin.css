@@ -1,0 +1,32 @@
+﻿.table tr td img {
+    max-height: 400px;
+    height: auto;
+    max-width: 400px;
+    width: auto;
+    border-radius: 5px;
+    animation: rotate 6s linear infinite;
+    margin-right:-250px;
+    margin-left:-30px;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotateY(0deg);
+    }
+
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+
+.col-md-8{
+    margin-top:15px;
+}
+
+.form-group{
+    margin-bottom:10px;
+}
+
+.botao {
+    display: none;
+}

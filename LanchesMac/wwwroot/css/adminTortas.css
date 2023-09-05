@@ -1,0 +1,41 @@
+﻿.form-inline input{
+    margin-bottom: 15px;
+}
+
+.form-inline button{
+    margin-bottom: 10px;
+}
+
+.newItem a{
+    text-decoration:none;
+    font-size:25px;
+}
+.funcao {
+    width: 189px;
+}
+
+.funcao a{
+    text-decoration:none;
+}
+
+.funcoes a{
+    text-decoration:none;
+}
+
+.mexer a{
+    text-decoration: none;
+}
+
+.email a{
+    color:#000000;
+    text-decoration:none;
+}
+
+#botao input{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+a{
+    text-decoration:none;
+}

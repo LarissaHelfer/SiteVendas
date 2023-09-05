@@ -1,0 +1,98 @@
+﻿@model Pedido
+
+<link rel="stylesheet" href="~/css/Checkout.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/LanchesMac.styles.css" asp-append-version="true" />
+
+
+
+<h3>Você esta a um passo de completar o seu pedido</h3>
+<hr />
+<form asp-action="Checkout" method="post" class="form-horizontal" role="form">
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label asp-for="Nome" class="control-label"></label>
+            <input asp-for="Nome" class="form-control" />
+            <span asp-validation-for="Nome" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Sobrenome" class="control-label"></label>
+            <input asp-for="Sobrenome" class="form-control" />
+            <span asp-validation-for="Sobrenome" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-4">
+            <label asp-for="Cep" class="control-label"></label>
+            <input asp-for="Cep" class="form-control" onblur="getEnderecoPorCEP(this.value)" />
+            <span asp-validation-for="Cep" class="text-danger"></span>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Endereco1" class="control-label"></label>
+            <input asp-for="Endereco1"class="form-control" id="endereco" />
+            <span asp-validation-for="Endereco1" class="text-danger"></span>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Endereco2" class="control-label"></label>
+            <input asp-for="Endereco2" class="form-control" id="bairro" />
+            <span asp-validation-for="Endereco2" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-4">
+            <label asp-for="Cidade" class="control-label"></label>
+            <input asp-for="Cidade" class="form-control" id="cidade"/>
+            <span asp-validation-for="Cidade" class="text-danger"></span>
+        </div>
+        <div class="col-md-4">
+            <label asp-for="Estado" class="control-label"></label>
+            <input asp-for="Estado" class="form-control" id="uf" />
+            <span asp-validation-for="Estado" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label asp-for="Telefone" class="control-label"></label>
+            <input asp-for="Telefone" class="form-control" />
+            <span asp-validation-for="Telefone" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+    <br />
+    <div class="row botoes">
+        <div class="form-group col-md-3">
+            <input class="btn btn-success" type="submit" value="Concluir Pedido" />
+        </div>
+        &nbsp;
+        <div class="form-group col-md-3">
+            <a class="btn btn-outline-info" asp-controller="CarrinhoCompra" asp-action="Index">Retornar ao Carrinho</a>
+        </div>
+    </div>
+</form>
+
+<script>
+    function getEnderecoPorCEP(cep) {
+
+        let url = "https://viacep.com.br/ws/" + cep + "/json/"
+
+
+        let xmlHttp = new XMLHttpRequest()
+        xmlHttp.open("GET", url)
+
+        xmlHttp.onreadystatechange = () => {
+            if (xmlHttp.readyState == 4 && xmlHttp.status == 200) {
+                let dadosJSONText = xmlHttp.responseText
+                let dadosJSONObj = JSON.parse(dadosJSONText)
+
+                document.getElementById("endereco").value = dadosJSONObj.logradouro
+                document.getElementById("bairro").value = dadosJSONObj.bairro
+                document.getElementById("cidade").value = dadosJSONObj.localidade
+                document.getElementById("uf").value = dadosJSONObj.uf
+            }
+        }
+        xmlHttp.send()
+    }
+</script>

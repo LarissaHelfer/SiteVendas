@@ -1,0 +1,14 @@
+﻿section#portfolio{
+    padding-left: 140px;
+    margin-top: -25px;
+}
+
+.carousel-item img {
+    max-width: 700px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+    margin-left:120px;
+    border-radius:5px;
+}

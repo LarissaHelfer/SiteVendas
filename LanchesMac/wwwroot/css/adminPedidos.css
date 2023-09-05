@@ -1,0 +1,36 @@
+﻿.form-group .botao{
+    margin-top:10px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.opcoes {
+    margin-top:15px;
+}
+
+.opcoes input{
+    margin-right:8px;
+}
+
+.form-group{
+    margin-bottom:8px;
+}
+
+.opcao input{
+    margin-top: 15px;
+}
+.opcao{
+    margin-bottom: 10px;
+}
+
+.opcao a{
+    display:flex;
+    margin-left:70px;
+    margin-top: -45px;
+    border:1px solid;
+    width:70px;
+    padding:3px;
+    border-radius:3px;
+}

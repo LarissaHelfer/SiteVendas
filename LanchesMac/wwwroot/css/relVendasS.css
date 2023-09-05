@@ -1,0 +1,21 @@
+﻿.form-group .dataInicial{
+    margin-bottom: 10px;
+}
+
+.dataInicial label{
+    margin-bottom:3px;
+}
+
+.botao{
+    margin-top:10px;
+    margin-bottom:15px;
+}
+
+.panel-body{
+    margin-top:15px;
+}
+
+.email a {
+    color: #000000;
+    text-decoration: none;
+}
